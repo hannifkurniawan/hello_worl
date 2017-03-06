@@ -1,2 +1,4 @@
-# hello_worl
+# hello_world
 just a repository
+
+learning git
